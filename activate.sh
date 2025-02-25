@@ -1,0 +1,1 @@
+source bot_env/bin/activate #activate
